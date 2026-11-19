@@ -1,4 +1,4 @@
-<h3>Automated gate</h3>
+<h2>Automated gate</h2>
 This project is a software for an automatic barrier gate system. The system has two esp32 microcontrollers, an external server and a client android smartphone.
 The project was created as an alternative to expensive automation systems and is an affordable and convenient solution for small and medium-sized organizations.
 
